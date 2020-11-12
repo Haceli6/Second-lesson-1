@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+}
+.left{
+    float: right;
+    width: 50%;
+     background-color: rgb(240, 184, 203);
+     height: 100vh
+}
+.left img{
+    width: 50%;
+}
+.right{
+    float: left;
+    width: 50%;
+    height: 100vh
+    background-color: rgb(238, 207, 207);
+}
